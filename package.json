@@ -10,10 +10,19 @@
   "files": [
     "index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohsal22/umtb-calendar"
+  },
   "author": "",
   "license": "MIT",
   "description": "",
   "peerDependencies": {
     "react-native": "^0.75.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-react": "^7.25.7"
   }
 }
