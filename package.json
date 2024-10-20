@@ -1,0 +1,19 @@
+{
+  "name": "umtb-calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-native start",
+    "build": "babel src --out-dir lib"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "peerDependencies": {
+    "react-native": "^0.75.4"
+  }
+}
